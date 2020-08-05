@@ -23,3 +23,5 @@ pip install win10toast
 ## Libraries/Modules:
 **win10toast** - A module that allows this script to send out notifications
 
+### Disclaimer 
+This program has not been tested on other devices. By using this program, you will be held accountable for any damages or harm that this program can potentially cause. 
