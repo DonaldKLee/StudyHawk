@@ -54,6 +54,7 @@ while(1):
     try:
         minute = float(input("For how many minutes would you like to be productive for?: "))
         rest = float(input("How long would you like your breaks in between to be?: "))
+        print("\nOk " + name + "! Good luck! \n\nPlease do not touch this program while it is running!")
         # Converts minutes to seconds
         productiveinseconds = minute * 60
         restinseconds = rest * 60
