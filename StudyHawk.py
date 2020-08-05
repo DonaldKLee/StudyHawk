@@ -34,26 +34,26 @@ print("\nHi " + name.strip() + "!\n")
 def beingproductive():
 
     time.sleep(int(productiveinseconds/2))
-    Notify.show_toast("Halfway through! You better not be procrastinating " + name + "!", icon_path=None, duration=10)
+    Notify.show_toast("Study Hawk", "Halfway through! You better not be procrastinating " + name + "!", icon_path=None, duration=10)
 
     time.sleep(int(productiveinseconds/2 - 11))
-    Notify.show_toast("Hi " + name + "! You can now take a " + str(round(rest)) + " minute break!", icon_path=None, duration=10)
+    Notify.show_toast("Study Hawk", "Hi " + name + "! You can now take a " + str(round(rest)) + " minute break!", icon_path=None, duration=10)
 
     #Break time
     time.sleep(int(restinseconds/4 - 11))
     time.sleep(int(restinseconds/4))
     time.sleep(int(restinseconds/4))
-    Notify.show_toast("Hi " + name + "! Your break is almost over!", icon_path=None, duration=10)
+    Notify.show_toast("Study Hawk", "Hi " + name + "! Your break is almost over!", icon_path=None, duration=10)
 
     time.sleep(int(restinseconds/4 - 6))
-    Notify.show_toast("Hi " + name + "! Your " + str(round(rest)) + " minute break is over! Get back to work!", icon_path=None, duration=10)
+    Notify.show_toast("Study Hawk", "Hi " + name + "! Your " + str(round(rest)) + " minute break is over! Get back to work!", icon_path=None, duration=10)
 
     beingproductive()
 
 while(1):
     try:
         minute = float(input("For how many minutes would you like to be productive for?: "))
-        rest = float(input("How long would you like your breaks in between to be?: "))
+        rest = float(input("How long in minutes would you like your breaks to be?: "))
         print("\nOk " + name + "! Good luck! \n\nPlease do not touch this program while it is running!")
         # Converts minutes to seconds
         productiveinseconds = minute * 60
