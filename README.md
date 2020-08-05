@@ -2,6 +2,7 @@
 
 # installation
 1. Download the code from this repository GitHub
+
 2. install win10toast
 ```
 pip install win10toast
