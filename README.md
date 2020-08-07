@@ -1,7 +1,7 @@
 # StudyHawk
 
 # Note
-So far, only the backend of this program has been created. The frontend portion is still in progress. Stay Tuned! 
+This is my first ever Python project with a GUI! Hope you like it! :) 
 
 # installation
 1. Download the code from this repository GitHub
@@ -27,6 +27,6 @@ pip install PyQt5
 ## Libraries/Modules:
 **win10toast** - A module that allows this script to send out notifications
 
-### Important 
+## Important 
 This program has not been thoroughly tested on other devices. 
-</br> By using this program, you will be held accountable for any damages or harm done to you, others, and/or devices that this program has potentially cause. 
+</br>By using this program, you will be held accountable for anything that this program has potentially cause. 
