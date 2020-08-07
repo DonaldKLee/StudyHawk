@@ -6,7 +6,7 @@ This is my first ever Python project with a GUI! Hope you like it! :)
 # installation
 1. Download the code from this repository GitHub
 
-2. install win10toast
+2. install win10toast and PyQt5
 ```
 pip install win10toast
 pip install PyQt5
