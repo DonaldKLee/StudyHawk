@@ -18,14 +18,13 @@ file = open("StudyHawkSavedData.txt", "r")
 name = file.read()
 #If your name is in the file, then you can now start being productive! :)
 if len(name) > 0:
-     file.close
+     file.close()
 #If your name is not in a file, we'll add your name to a file for you!
 else:
     name = input("What's your name?: ")
     file = open("StudyHawkSavedData.txt", "w")
     file.write(name)
-    file.close
-    sys.exit("\nThanks " + name + "! " + "Your name has been saved in this program.\n\nPlease restart this program!")
+    file.close()
 
 #We will say hi to you!
 print("\nHi " + name.strip() + "!\n")
@@ -34,19 +33,19 @@ print("\nHi " + name.strip() + "!\n")
 def beingproductive():
 
     time.sleep(int(productiveinseconds/2))
-    Notify.show_toast("Study Hawk", "Halfway through! You better not be procrastinating " + name + "!", icon_path=None, duration=10)
+    Notify.show_toast("Study Hawk", "Halfway through! You better not be procrastinating " + name + "!", icon_path="StudyHawkLogo.ico", duration=0)
 
-    time.sleep(int(productiveinseconds/2 - 11))
-    Notify.show_toast("Study Hawk", "Hi " + name + "! You can now take a " + str(round(rest)) + " minute break!", icon_path=None, duration=10)
+    time.sleep(int(productiveinseconds/2))
+    Notify.show_toast("Study Hawk", "Hi " + name + "! You can now take a " + str(round(rest)) + " minute break!", icon_path="StudyHawkLogo.ico", duration=0)
 
     #Break time
-    time.sleep(int(restinseconds/4 - 11))
     time.sleep(int(restinseconds/4))
     time.sleep(int(restinseconds/4))
-    Notify.show_toast("Study Hawk", "Hi " + name + "! Your break is almost over!", icon_path=None, duration=10)
+    time.sleep(int(restinseconds/4))
+    Notify.show_toast("Study Hawk", "Hi " + name + "! Your break is almost over!", icon_path="StudyHawkLogo.ico", duration=0)
 
-    time.sleep(int(restinseconds/4 - 6))
-    Notify.show_toast("Study Hawk", "Hi " + name + "! Your " + str(round(rest)) + " minute break is over! Get back to work!", icon_path=None, duration=10)
+    time.sleep(int(restinseconds/4))
+    Notify.show_toast("Study Hawk", "Hi " + name + "! Your " + str(round(rest)) + " minute break is over! Get back to work!", icon_path="StudyHawkLogo.ico", duration=0)
 
     beingproductive()
 
