@@ -1,7 +1,7 @@
 # StudyHawk
 
 # Note
-So far, only the backend of this program has been created. The frontend portion is still in progress. Stay Tuned
+So far, only the backend of this program has been created. The frontend portion is still in progress. Stay Tuned! 
 
 # installation
 1. Download the code from this repository GitHub
