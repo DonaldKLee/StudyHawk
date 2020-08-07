@@ -21,11 +21,18 @@ pip install PyQt5
 
 7. Don't touch the program
 
+If you would like to change your name, press the "Change Name" button on the right side of the screen. This will remove your name from the program file and will reset the program. Go back to step 1. 
+
+# Demo 
+Coming soon.
+
 # Purpose
+Coming soon.
 
 # Tools
 ## Libraries/Modules:
 **win10toast** - A module that allows this script to send out notifications
+**PyQt5** - A module used to create the GUI of this program
 
 ## Important 
 This program has not been thoroughly tested on other devices. 
