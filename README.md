@@ -1,4 +1,4 @@
-# Study Hawk
+# StudyHawk
 By: Donald Lee
 Date: August 4th-7th 2020
 
