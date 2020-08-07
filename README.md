@@ -1,4 +1,6 @@
 # StudyHawk
+By: Donald Lee
+Date: August 4th-7th 2020
 
 # Note
 This is my first ever Python project with a GUI! Hope you like it! :) 
