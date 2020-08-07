@@ -9,6 +9,7 @@ So far, only the backend of this program has been created. The frontend portion 
 2. install win10toast
 ```
 pip install win10toast
+pip install PyQt5
 ```
 3. Run the program
 
