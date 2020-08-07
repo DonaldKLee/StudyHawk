@@ -28,4 +28,4 @@ pip install win10toast
 
 ### Important 
 This program has not been tested on other devices. 
-By using this program, you will be held accountable for any damages or harm done to you, others, and or your devices that this program has potentially cause. 
+</br> By using this program, you will be held accountable for any damages or harm done to you, others, and/or devices that this program could potentially cause. 
