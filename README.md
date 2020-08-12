@@ -26,7 +26,7 @@ pip install PyQt5
 If you would like to change your name, press the "Change Name" button on the right side of the screen. This will remove your name from the program file and will reset the program. Go back to step 1. 
 
 # Demo 
-Coming soon.
+![SetUp](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/SetUpGUIImg.PNG)
 
 # Purpose
 Coming soon.
