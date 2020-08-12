@@ -46,7 +46,7 @@ pip install PyQt5
 
 # Tools
 ## Libraries/Modules:
-**win10toast** - A module that allows this script to send out notifications
+**win10toast** - A module that allows this script to send out notifications </br>
 **PyQt5** - A module used to create the GUI of this program
 
 ## Important 
