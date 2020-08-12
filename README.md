@@ -1,11 +1,10 @@
 # StudyHawk
 By: Donald Lee
 </br>Date: August 4th-7th 2020
+<br/> A project inspired by the study timers on [Leading Learners](https://www.leadlearners.ca/study-timer).
 
 # About
 Note: This is my first ever Python project containing a GUI! Hope you like it! :) <br/>
-
-Additional notes: This project was inspired by the study timers on [Leading Learners](https://www.leadlearners.ca/study-timer). <br/>
 
 As most people are working from home or taking online classes, procrastination can be a huge problem.  <br/>
 
