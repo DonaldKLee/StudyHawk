@@ -23,7 +23,7 @@ pip install PyQt5
 
 3. After entering your name, the program will close. When it closes, restart (re run) the program.
 
-4. Once you have restarted the program, set the time you would like to stay productive for and how long your breaks are.
+4. Once you have restarted the program, set the time you would like to stay productive for and how long you want your breaks to be.
 
 ### GUI when using StudyHawk
 ![GUI](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/GUI.PNG)
