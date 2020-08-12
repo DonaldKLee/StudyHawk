@@ -2,6 +2,7 @@
 By: Donald Lee
 </br><br/>Date: August 4th-7th 2020
 <br/><br/> A project inspired by the study timers on [Leading Learners](https://www.leadlearners.ca/study-timer).
+<br/><br/> Note: win10toast only works on Window 10 devices, as a result, this program will NOT work for devices not using Windows 10
 
 # About
 Note: This is my first ever Python project containing a GUI! Hope you like it! :) <br/>
@@ -45,9 +46,9 @@ pip install PyQt5
 
 # Tools
 ## Libraries/Modules:
-**win10toast** - A module that allows this script to send out notifications </br>
+**win10toast** - A module that allows Python scripts to send out notifications </br>
 **PyQt5** - A module used to create the GUI of this program
 
 ## Important 
 This program has not been thoroughly tested on other devices. 
-</br>By using this program, you will be held accountable for anything that this program has potentially cause. 
+</br>By using this program, you will be held accountable for anything that this program has potentially caused. 
