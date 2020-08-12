@@ -13,21 +13,22 @@ This is my first ever Python project with a GUI! Hope you like it! :)
 pip install win10toast
 pip install PyQt5
 ```
-3. Run the program
+# Instructions
+1. Run the program
 
-4. If this is your first time using this program, you will be asked to enter in your name
+2. If this is your first time using this program, you will be asked to enter in your name
 
 ### GUI for setting up StudyHawk
 ![SetUp](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/SetUpGUIImg.PNG)
 
-5. After entering your name, the program will close. When it closes, restart (re run) the program.
+3. After entering your name, the program will close. When it closes, restart (re run) the program.
 
-6. Once you have restarted the program, set the time you would like to stay productive for and how long your breaks are.
+4. Once you have restarted the program, set the time you would like to stay productive for and how long your breaks are.
 
 ### GUI when using StudyHawk
 ![GUI](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/GUI.PNG)
 
-7. Don't touch the program
+5. Don't touch the program
 
 ## Changing your name
 ### If you would like to change your name, press the "Change Name" button on the right side of the screen. This will remove your name from the program file and will reset the program. Go back to step 1. 
