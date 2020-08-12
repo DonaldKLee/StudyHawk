@@ -17,19 +17,19 @@ pip install PyQt5
 
 4. If this is your first time using this program, you will be asked to enter in your name
 
-5. After entering your name, restart the program.
+### GUI for setting up StudyHawk
+![SetUp](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/SetUpGUIImg.PNG)
 
-6. Once you have restarted the program, set the time you would like to stay productive for and how long your breaks are. 
+5. After entering your name, the program will close. When it closes, restart (re run) the program.
+
+6. Once you have restarted the program, set the time you would like to stay productive for and how long your breaks are.
+
+### GUI when using StudyHawk
+![GUI](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/GUI.PNG)
 
 7. Don't touch the program
 
 If you would like to change your name, press the "Change Name" button on the right side of the screen. This will remove your name from the program file and will reset the program. Go back to step 1. 
-
-# GUI 
-### GUI for setting up StudyHawk
-![SetUp](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/SetUpGUIImg.PNG)
-### GUI when using StudyHawk
-![GUI](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/GUI.PNG)
 
 # Purpose
 Coming soon.
