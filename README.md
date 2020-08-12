@@ -27,6 +27,7 @@ If you would like to change your name, press the "Change Name" button on the rig
 
 # Demo 
 ![SetUp](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/SetUpGUIImg.PNG)
+![GUI](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/GUI.PNG)
 
 # Purpose
 Coming soon.
