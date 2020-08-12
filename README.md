@@ -10,7 +10,7 @@ Additional notes: This project was inspired by the study timers on [Leading Lear
 As most people are working from home or taking online classes, procrastination can be a huge problem.  <br/>
 
 Introducing StudyHawk, a productivity timer that reminds you with notifications on when it is time for your break and when your break ends. <br/>
-Additionally, halfway through your productivity session, you will receive a friendly notification reminding you that you should not be procrastinating, just in case if you are. When your break is about 75% over, you will also receive a friendly reminder informing you that your break is almost over.
+Additionally, halfway through your productivity session, you will receive a friendly notification reminding you that you should not be procrastinating, just in case if you are. When your break is about 75% over, you will also receive a friendly notification informing you that your break is almost over.
 
 
 # installation
