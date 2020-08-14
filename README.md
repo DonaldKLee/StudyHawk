@@ -43,9 +43,7 @@ pip install PyQt5
 
 ![Change Name](https://github.com/Donald-K-Lee/StudyHawk/blob/master/StudyHawkReadmeIMG/ChangeName.jpg)
 
-
-# Tools
-## Libraries/Modules:
+# Libraries/Modules used:
 **win10toast** - A module that allows Python scripts to send out notifications </br>
 **PyQt5** - A module used to create the GUI of this program
 
