@@ -47,6 +47,7 @@ pip install PyQt5
 **win10toast** - A module that allows Python scripts to send out notifications </br>
 **PyQt5** - A module used to create the GUI of this program
 
-## Important 
+## Terms of Service 
 This program has not been thoroughly tested on other devices. 
 </br>By using this program, you will be held accountable for anything that this program has potentially caused. 
+</br> These terms may be changed without notice.
