@@ -13,7 +13,7 @@ Introducing StudyHawk, a productivity timer that reminds you with notifications 
 Additionally, halfway through your productivity session, you will receive a friendly notification reminding you that you should not be procrastinating, just in case if you are. When your break is about 75% over, you will also receive a friendly notification informing you that your break is almost over.
 
 
-# installation
+# Installation
 1. Download the code from this repository GitHub
 
 2. install win10toast and PyQt5
